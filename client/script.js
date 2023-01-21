@@ -80,7 +80,7 @@ const handleSubmit = async (e) => {
 
   //fetch data from server -> bot's response
 
-  const response = await fetch('http://localhost:5001', {
+  const response = await fetch('https://brave-new-ai-chat.onrender.com', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
