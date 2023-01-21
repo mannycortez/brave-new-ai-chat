@@ -66,12 +66,9 @@ body {
 }
 
 .profile {
-  width: 36px;
-  height: 36px;
+  width: 60px;
+  height: 60px;
   border-radius: 5px;
-
-  background: #5436DA;
-
   display: flex;
   justify-content: center;
   align-items: center;

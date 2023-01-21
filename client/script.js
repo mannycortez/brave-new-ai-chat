@@ -1,4 +1,4 @@
-import bot from './assets/bot.svg';
+import bot from './assets/manny-cortez-studios-logo.svg';
 import user from './assets/send.svg';
 
 const form = document.querySelector('form');
